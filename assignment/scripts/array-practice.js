@@ -21,11 +21,11 @@ favoriteFoods.push('Bacon');
 console.log('Added bacon to the end, ', favoriteFoods);
 
 let removedFoods = favoriteFoods.pop();
-console.log('Removed the last food', removedFoods;
-console.log('Favorite foods are now, '), favoriteFoods;
+console.log('Removed the last food', removedFoods;)
+console.log('Favorite foods are now, ', favoriteFoods;)
 
 favoriteFoods.unshift('Grapes');
-console.log(`Added a favorite foods to beginning: ${favoriteAnimal}`);
+console.log(`Added a favorite foods to beginning: ${favoriteFoods}`);
 
 removedFoods = favoriteFoods.shift();
 console.log('Removed the first food', removedFoods);
